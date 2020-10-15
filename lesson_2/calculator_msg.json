@@ -1,0 +1,21 @@
+{
+  "lang": "English (en) ou français (fr)?\n",
+  "en": {
+    "num1": "Enter the 1st number:\n",
+    "num2": "Enter the 2nd number:\n",
+    "invalid num": "=> Please enter a number:\n",
+    "op": "Which op?\n",
+    "invalid op": "=> + - * or /\n",
+    "more": "More calculations?\ny to continue\n",
+    "y": "y"
+  },
+  "fr": {
+    "num1": "1er chiffre:\n",
+    "num2": "deuxième numéro:\n",
+    "invalid num": "=> Un numéro, s'il vous plaît:\n",
+    "op": "Quelle opération?\n",
+    "invalid op": "=> + - * ou /\n",
+    "more": "Plus?\no pour continuer\n",
+    "y": "o"
+  }
+}
